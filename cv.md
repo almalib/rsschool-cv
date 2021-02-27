@@ -1,4 +1,4 @@
-## ✋Hello! My name is Adam. I am 28 years old and I am a front-end developer. 
+## ✋Hello! My name is Adam. I am 28 years old and I am a front-end developer.
 
 I have been doing web development for about two years now. Since January 2020, I have been serious about learning JavaScript.
 I have commercial development experience with Angular, StencilJS and Vanilla JS.
